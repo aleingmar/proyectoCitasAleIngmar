@@ -7,6 +7,8 @@ use App\Http\Controllers\MedicamentoController;
 use App\Http\Controllers\PacienteController;
 use Illuminate\Support\Facades\Route;
 
+//importaciones hola que hayjnxkxs
+
 Route::get('/', function () {
     return view('welcome');
 });
